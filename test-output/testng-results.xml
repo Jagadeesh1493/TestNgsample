@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-11T04:50:04 IST" name="Default suite" finished-at="2021-10-11T04:50:24 IST" duration-ms="20105">
+    <groups>
+    </groups>
+    <test started-at="2021-10-11T04:50:04 IST" name="Default test" finished-at="2021-10-11T04:50:24 IST" duration-ms="20105">
+      <class name="com.TestNGProjecct.TestCase1">
+        <test-method is-config="true" signature="configuration()[pri:0, instance:com.TestNGProjecct.TestCase1@bf1ec20]" started-at="2021-10-11T04:50:04 IST" name="configuration" finished-at="2021-10-11T04:50:05 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method signature="Url()[pri:-1, instance:com.TestNGProjecct.TestCase1@bf1ec20]" started-at="2021-10-11T04:50:05 IST" name="Url" finished-at="2021-10-11T04:50:09 IST" duration-ms="4886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method signature="Sign_In()[pri:0, instance:com.TestNGProjecct.TestCase1@bf1ec20]" started-at="2021-10-11T04:50:10 IST" name="Sign_In" finished-at="2021-10-11T04:50:11 IST" duration-ms="1676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_In -->
+        <test-method signature="searchRoom()[pri:2, instance:com.TestNGProjecct.TestCase1@bf1ec20]" started-at="2021-10-11T04:50:11 IST" name="searchRoom" finished-at="2021-10-11T04:50:13 IST" duration-ms="1826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchRoom -->
+        <test-method signature="hotel()[pri:3, instance:com.TestNGProjecct.TestCase1@bf1ec20]" started-at="2021-10-11T04:50:13 IST" name="hotel" finished-at="2021-10-11T04:50:14 IST" duration-ms="1049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotel -->
+        <test-method signature="bookHotel()[pri:4, instance:com.TestNGProjecct.TestCase1@bf1ec20]" started-at="2021-10-11T04:50:14 IST" name="bookHotel" finished-at="2021-10-11T04:50:20 IST" duration-ms="5801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookHotel -->
+        <test-method signature="logout()[pri:5, instance:com.TestNGProjecct.TestCase1@bf1ec20]" started-at="2021-10-11T04:50:20 IST" name="logout" finished-at="2021-10-11T04:50:24 IST" duration-ms="4527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.TestNGProjecct.TestCase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
